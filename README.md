@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="./asset/img/header/title_name.png">
+<img src="./asset/img/header/nameP.png">
 
 <!--Social Channel-->
 <p align="center">
